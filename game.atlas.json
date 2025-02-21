@@ -3,13 +3,15 @@ size: 495, 500
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+
 NationIcons/The-Ottoman-Empire
- rotate: false
- xy: 100, 200
- size: 100, 100
- orig: 170, 170
- offset: 0, 0
- index: -1
+  rotate: false
+  xy: 100, 200
+  size: 100, 100
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+
 BuildingIcons/Anadolu Fortress
   rotate: false
   xy: 0, 0
@@ -17,6 +19,7 @@ BuildingIcons/Anadolu Fortress
   orig: 128, 128
   offset: 0, 0
   index: -1
+
 TileSets/FantasyHex/Units/Pasha
   rotate: false
   xy: 400, 81
@@ -24,6 +27,7 @@ TileSets/FantasyHex/Units/Pasha
   orig: 77, 100
   offset: 0, 0
   index: -1
+
 TileSets/FantasyHex/Units/Tımarlı Sipahi
   rotate: false
   xy: 400, 332
@@ -31,6 +35,7 @@ TileSets/FantasyHex/Units/Tımarlı Sipahi
   orig: 77, 74
   offset: 0, 0
   index: -1
+
 TileSets/FantasyHex/Units/yeniçerǐ
   rotate: false
   xy: 400, 0
@@ -38,6 +43,7 @@ TileSets/FantasyHex/Units/yeniçerǐ
   orig: 95, 81
   offset: 0, 0
   index: -1
+
 TileSets/FantasyHex/Units/Akıncı
   rotate: false
   xy: 400, 262
@@ -45,6 +51,7 @@ TileSets/FantasyHex/Units/Akıncı
   orig: 77, 70
   offset: 0, 0
   index: -1
+
 TileSets/FantasyHex/Units/Kemankeş
   rotate: false
   xy: 400, 181
@@ -52,6 +59,7 @@ TileSets/FantasyHex/Units/Kemankeş
   orig: 95, 81
   offset: 0, 0
   index: -1
+
 UnitIcons/kemankeş
   rotate: false
   xy: 200, 200
@@ -59,6 +67,7 @@ UnitIcons/kemankeş
   orig: 100, 100
   offset: 0, 0
   index: -1
+
 UnitIcons/pasha
   rotate: false
   xy: 0, 200
@@ -66,6 +75,7 @@ UnitIcons/pasha
   orig: 100, 100
   offset: 0, 0
   index: -1
+
 UnitIcons/Akıncı
   rotate: false
   xy: 200, 300
@@ -73,6 +83,7 @@ UnitIcons/Akıncı
   orig: 200, 200
   offset: 0, 0
   index: -1
+
 UnitIcons/Yeniçerǐ
   rotate: false
   xy: 0, 300
@@ -80,6 +91,7 @@ UnitIcons/Yeniçerǐ
   orig: 200, 200
   offset: 0, 0
   index: -1
+
 UnitIcons/Tımarlı Sipahi
   rotate: false
   xy: 200, 0
@@ -87,6 +99,7 @@ UnitIcons/Tımarlı Sipahi
   orig: 200, 200
   offset: 0, 0
   index: -1
+
 UnitPromotionIcons/Homeland Devotion
   rotate: false
   xy: 400, 406
@@ -94,6 +107,7 @@ UnitPromotionIcons/Homeland Devotion
   orig: 50, 50
   offset: 0, 0
   index: -1
+
 UnitPromotionIcons/Master of Conquest
   rotate: false
   xy: 300, 200
@@ -101,6 +115,7 @@ UnitPromotionIcons/Master of Conquest
   orig: 50, 50
   offset: 0, 0
   index: -1
+
 UnitPromotionIcons/Tımarlı
   rotate: false
   xy: 350, 200
@@ -108,6 +123,7 @@ UnitPromotionIcons/Tımarlı
   orig: 50, 50
   offset: 0, 0
   index: -1
+
 UnitPromotionIcons/commander
   rotate: false
   xy: 350, 250
@@ -115,6 +131,7 @@ UnitPromotionIcons/commander
   orig: 50, 50
   offset: 0, 0
   index: -1
+
 UnitPromotionIcons/Finishing Blow
   rotate: false
   xy: 300, 250
